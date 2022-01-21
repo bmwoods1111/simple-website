@@ -1,0 +1,33 @@
+* { box-sizing: border-box; }
+body{
+    background-color: gray;
+}
+
+
+.image1 {
+	float:left;
+	padding-top: .2em;
+	margin: 5px;
+	width: 35%;
+	height: 45%;
+	border-radius: 15px;}
+    
+
+#one{
+    color: white;
+    text-align: justify;
+}
+
+#two{
+    color: white;
+    text-align: justify;
+}
+
+#align{
+	line-height: 1.35em;
+	text-indent: 1em;
+	padding-bottom: .5em;
+	margin-bottom: 5em;}
+
+main { display: block; 
+        padding: 0 1em;}
